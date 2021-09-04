@@ -1,0 +1,21 @@
+#bg	{
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	background-color: #1c1c1c;
+	border-radius: 10px;
+	height: 600px;
+	width: 850px;
+	position: fixed;
+	top: 15%;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.size {
+	margin: 50px;
+}
+
+body {
+	background-color: #2e2e2e;
+}
